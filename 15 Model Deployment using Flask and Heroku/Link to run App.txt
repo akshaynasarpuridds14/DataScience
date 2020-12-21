@@ -1,0 +1,1 @@
+https://predict-salary-akshay.herokuapp.com/predict
