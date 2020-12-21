@@ -1,1 +1,1 @@
-https://predict-salary-akshay.herokuapp.com/predict
+https://predict-salary-akshay.herokuapp.com/
